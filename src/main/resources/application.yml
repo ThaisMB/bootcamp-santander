@@ -6,9 +6,9 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: postgres://mpdykbexwikzom:587ed202bc90c2618d2aa7a077c1c2370cd3304f4ae3370617b8b758d8088808@ec2-50-16-108-41.compute-1.amazonaws.com:5432/d4sfqojo1nief5
-    username: mpdykbexwikzom
-    password: 587ed202bc90c2618d2aa7a077c1c2370cd3304f4ae3370617b8b758d8088808
+    url: postgres://ezyocsxutnhzrw:39859405cb5c21f0ba7d4fbfa23fe31b1e2d5cc65c8410d875a083cab2a4aeaf@ec2-34-232-191-133.compute-1.amazonaws.com:5432/d5e4o9enh5cbdq
+    username: ezyocsxutnhzrw
+    password: 39859405cb5c21f0ba7d4fbfa23fe31b1e2d5cc65c8410d875a083cab2a4aeaf
 
 jpa:
   show-sql: true
