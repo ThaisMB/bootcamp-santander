@@ -5,9 +5,9 @@ server:
 
 spring:
   datasource:
-    url: ${JDBC_d5e4o9enh5cbdq_postgres://ezyocsxutnhzrw:39859405cb5c21f0ba7d4fbfa23fe31b1e2d5cc65c8410d875a083cab2a4aeaf@ec2-34-232-191-133.compute-1.amazonaws.com:5432/d5e4o9enh5cbdq}
-    username: ${JDBC_d5e4o9enh5cbdq_ezyocsxutnhzrw}
-    password: ${JDBC_d5e4o9enh5cbdq_39859405cb5c21f0ba7d4fbfa23fe31b1e2d5cc65c8410d875a083cab2a4aeaf}
+    url: ${JDBC_postgres_postgres://ezyocsxutnhzrw:39859405cb5c21f0ba7d4fbfa23fe31b1e2d5cc65c8410d875a083cab2a4aeaf@ec2-34-232-191-133.compute-1.amazonaws.com:5432/d5e4o9enh5cbdq}
+    username: ${JDBC_postgres_ezyocsxutnhzrw}
+    password: ${JDBC_postgres_39859405cb5c21f0ba7d4fbfa23fe31b1e2d5cc65c8410d875a083cab2a4aeaf}
 
 jpa:
   show-sql: true
