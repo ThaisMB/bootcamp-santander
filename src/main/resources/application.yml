@@ -6,7 +6,7 @@ server:
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgres://ezyocsxutnhzrw:39859405cb5c21f0ba7d4fbfa23fe31b1e2d5cc65c8410d875a083cab2a4aeaf@ec2-34-232-191-133.compute-1.amazonaws.com:5432/d5e4o9enh5cbdq
+    uri: postgres://ezyocsxutnhzrw:39859405cb5c21f0ba7d4fbfa23fe31b1e2d5cc65c8410d875a083cab2a4aeaf@ec2-34-232-191-133.compute-1.amazonaws.com:5432/d5e4o9enh5cbdq
     username: ezyocsxutnhzrw
     password: 39859405cb5c21f0ba7d4fbfa23fe31b1e2d5cc65c8410d875a083cab2a4aeaf
 
