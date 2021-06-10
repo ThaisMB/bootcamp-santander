@@ -15,7 +15,7 @@ jpa:
   database-platform: org.hibernate.dialect.PostgreSQLDialect
   general-ddl: true
   hibernate:
-    ddl-auto: none
+    ddl-auto: update
 
 application:
   description: Projeto criado para o bootcamp DIO-Santander
